@@ -150,4 +150,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Questions or Suggestions?**  
 Open an issue or contact me directly!
-```
